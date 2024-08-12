@@ -1,4 +1,4 @@
-module http_server
+module github.com/StuartsHome/http_server
 
 go 1.22.5
 
