@@ -11,7 +11,7 @@ To build and run a binary `http_server`:
 make run
 ```
 
-## Example request
+## Example request
 ```
 > curl localhost:8080
 User-Agent header needs to contain a value larger than 40 bytes, current value is of 10 bytes, curl/8.7.1
